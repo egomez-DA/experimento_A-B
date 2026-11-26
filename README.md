@@ -71,8 +71,10 @@ Analicé si la conversión depende del canal de adquisición y del tipo de usuar
 - 👥 La compra **no depende del tipo de usuario** (nuevo o recurrente).
 
 ### 5. Visualizaciones
-> 🖼️ _Inserta aquí tus gráficos más representativos:_
-> `![Conversión A vs B](img/conversion_ab.png)`
+> 🖼️ _Conversión por tipo de usuario:_ el gráfico de la izquierda muestra la cantidad de usuarios que se convirtieron y no convirtieron según la variable user_type. Se observa que 'Nuevo' concentra la mayoría de volumen. El segundo gráfico, de la derecha muestra la tasa de conversión independientemente del volumen total, aparentemente las dos opciones de user_type muestran el mismo comportamiento de porcentaje de conversión.
+> 
+>  🖼️ _Conversión por tipo tipo de tráfico:_ el gráfico de la izquierda muestra la cantidad de usuarios que se convirtieron y no convirtieron según la variable traffic_source. Se observa que Organic y Ads concentran la mayoría de volumen. El segundo gráfico, de la derecha muestra la tasa de conversión independientemente del volumen total, aparentemente las cuatro opciones de traffic_source muestran el mismo comportamiento de porcentaje de conversión.
+> 
 
 ## ✅ Recomendaciones accionables
 
