@@ -87,8 +87,7 @@ Analicé si la conversión depende del canal de adquisición y del tipo de usuar
 ## ▶ Cómo abrir el notebook en Google Colab
 
 1. Haz clic en el siguiente botón:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/egomez-DA/Proyecto-Final-RappiPlus-De-datos-a-decisiones-de-negocio/blob/main/S12_Estudiante_Proyecto_Final.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/egomez-DA/experimento_A-B/blob/f12042d3c7687e3208e733f9cc7d2bbdca9ca517/S9%20Version_Student_Proyecto_Landing_Experiment.ipynb)
 2. Ejecuta las celdas en orden.
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público, según corresponda.
 
